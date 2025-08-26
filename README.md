@@ -20,7 +20,7 @@ A sophisticated SA-MP (San Andreas Multiplayer) Lua script for MonetLoader on An
 ## 🔧 Installation
 
 1. Ensure you have **MonetLoader** installed on your Android device
-2. Place the `anos_health.lua` file in your `MonetLoader/scripts/` directory
+2. Place the `anos_health.lua` file in your `/storage/emulated/0/Android/media/ro.alyn_sampmobile.game/monetloader/` directory
 3. Launch GTA SA and connect to your SA-MP server
 4. The script will auto-load with confirmation message
 
